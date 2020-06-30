@@ -48,7 +48,7 @@
 项目开发使用Go版本为1.13.7，建议使用>=1.13.7版本运行软件
 
 ```
-$ git clone git@github.com:xietongMe/ginEssential.git
+$ git clone https://github.com/Liu-java-666/golang.git
 $ cd ginEssential
 ```
 
